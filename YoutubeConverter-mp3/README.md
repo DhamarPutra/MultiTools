@@ -22,7 +22,7 @@ Here are the steps to run the project locally
    * Open Terminal
    * Install py_dlp
      ```bash
-     pip i yt-dlp
+     pip install yt-dlp
   
 3. **How to run**
    * Run the script
